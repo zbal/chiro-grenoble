@@ -1,7 +1,7 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-The root contains exported static pages: `index.html` plus one HTML file per topic or city (slugged, lowercase, hyphenated, no extension such as `grossesse-et-bebe`). Shared design tokens live under `assets/vendor/css/` (vendored Simplébo bundles), while per-page overrides stay in `styles/pages/<siteId>/<timestamp>/containers-specific-styles.css` and theme tweaks in `site/8f65d3rbhmye/styles/<themeId>/dynamic-styles.css`. Keep media references external as in existing markup; local assets should go beside the page that references them.
+The root contains exported static pages: `index.html` plus one HTML file per topic or city (slugged, lowercase, hyphenated, no extension such as `grossesse-et-bebe`). Shared design tokens live under `assets/vendor/css/` (vendored upstream bundles), while per-page overrides stay in `styles/pages/<siteId>/<timestamp>/containers-specific-styles.css` and theme tweaks in `site/8f65d3rbhmye/styles/<themeId>/dynamic-styles.css`. Keep media references external as in existing markup; local assets should go beside the page that references them.
 
 ## Build, Test, and Development Commands
 This repo is directly deployable; no bundler is required. Use `python3 -m http.server 8080` (or `npx serve .`) from the repo root to preview URLs like `http://localhost:8080/grossesse-et-bebe`. Run `npx htmlhint path/to/page` to catch structural regressions and `npx stylelint styles/**/*.css` if you edit CSS.

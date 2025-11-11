@@ -1,6 +1,6 @@
 # External Asset Inventory
 
-## HTML references (286)
+## HTML references (285)
 
 1. `https://assets.sbcdnsb.com/assets/app_main-cb5d75a1.js`
    - Context: script.src
@@ -1130,19 +1130,15 @@
    - Context: link.shortcut icon
    - Files: chiropracteur-chiropracteur-champ-sur-drac-38560, chiropracteur-chiropracteur-claix-38640, chiropracteur-chiropracteur-corenc-38700, chiropracteur-chiropracteur-echirolles-38130, chiropracteur-chiropracteur-eybens-38320, chiropracteur-chiropracteur-fontaine-38600, chiropracteur-chiropracteur-gieres-38610, chiropracteur-chiropracteur-jarrie-38560, chiropracteur-chiropracteur-la-tronche-38700, chiropracteur-chiropracteur-le-pont-de-claix-38800, chiropracteur-chiropracteur-saint-egreve-38120, chiropracteur-chiropracteur-saint-martin-d-heres-38400, chiropracteur-chiropracteur-saint-martin-le-vinoux-38950, chiropracteur-chiropracteur-sassenage-38360, chiropracteur-chiropracteur-seyssinet-pariset-38170, chiropracteur-chiropracteur-seyssins-38180, chiropracteur-chiropracteur-varces-allieres-et-risset-38760, chiropracteur-chiropracteur-vaulnaveys-le-haut-38410, chiropracteur-chiropracteur-vizille-38220, chiropraxie-et-prevention, claire-malot-viallet, definition-chiropraxie, demenagement, formation-chiropraxie, grossesse-et-bebe, index.html, la-consultation-de-chiropraxie-eybens-38320, le-sportif, mentions-legales, nicolas-viallet-chiropracteur-eybens-38320, plan-du-site, pourquoi, prendre-rendez-vous-chiropracteur-eybens, statut-chiropraxie, systeme-nerveux
 
-283. `https://files.sbcdnsb.com/images/brand/1762528045/1/websites_subfooter_logo/logo-simplebo-agence-web.png`
-   - Context: img.data-src
-   - Files: chiropracteur-chiropracteur-champ-sur-drac-38560, chiropracteur-chiropracteur-claix-38640, chiropracteur-chiropracteur-corenc-38700, chiropracteur-chiropracteur-echirolles-38130, chiropracteur-chiropracteur-eybens-38320, chiropracteur-chiropracteur-fontaine-38600, chiropracteur-chiropracteur-gieres-38610, chiropracteur-chiropracteur-jarrie-38560, chiropracteur-chiropracteur-la-tronche-38700, chiropracteur-chiropracteur-le-pont-de-claix-38800, chiropracteur-chiropracteur-saint-egreve-38120, chiropracteur-chiropracteur-saint-martin-d-heres-38400, chiropracteur-chiropracteur-saint-martin-le-vinoux-38950, chiropracteur-chiropracteur-sassenage-38360, chiropracteur-chiropracteur-seyssinet-pariset-38170, chiropracteur-chiropracteur-seyssins-38180, chiropracteur-chiropracteur-varces-allieres-et-risset-38760, chiropracteur-chiropracteur-vaulnaveys-le-haut-38410, chiropracteur-chiropracteur-vizille-38220, chiropraxie-et-prevention, claire-malot-viallet, definition-chiropraxie, demenagement, formation-chiropraxie, grossesse-et-bebe, index.html, la-consultation-de-chiropraxie-eybens-38320, le-sportif, mentions-legales, nicolas-viallet-chiropracteur-eybens-38320, plan-du-site, pourquoi, prendre-rendez-vous-chiropracteur-eybens, statut-chiropraxie, systeme-nerveux
-
-284. `https://files.sbcdnsb.com/images/webdirectory/1719997287/5/logo/logo_annuaire_sante.png`
+283. `https://files.sbcdnsb.com/images/webdirectory/1719997287/5/logo/logo_annuaire_sante.png`
    - Context: img.data-src
    - Files: index.html
 
-285. `https://maps.googleapis.com/maps/api/js?key=AIzaSyBhiWJknGbS7LdN1Khxnh0pVjK9EMhlXQQ&language=fr`
+284. `https://maps.googleapis.com/maps/api/js?key=AIzaSyBhiWJknGbS7LdN1Khxnh0pVjK9EMhlXQQ&language=fr`
    - Context: div.data-google-maps-url
    - Files: chiropracteur-chiropracteur-champ-sur-drac-38560, chiropracteur-chiropracteur-claix-38640, chiropracteur-chiropracteur-corenc-38700, chiropracteur-chiropracteur-echirolles-38130, chiropracteur-chiropracteur-eybens-38320, chiropracteur-chiropracteur-fontaine-38600, chiropracteur-chiropracteur-gieres-38610, chiropracteur-chiropracteur-jarrie-38560, chiropracteur-chiropracteur-la-tronche-38700, chiropracteur-chiropracteur-le-pont-de-claix-38800, chiropracteur-chiropracteur-saint-egreve-38120, chiropracteur-chiropracteur-saint-martin-d-heres-38400, chiropracteur-chiropracteur-saint-martin-le-vinoux-38950, chiropracteur-chiropracteur-sassenage-38360, chiropracteur-chiropracteur-seyssinet-pariset-38170, chiropracteur-chiropracteur-seyssins-38180, chiropracteur-chiropracteur-varces-allieres-et-risset-38760, chiropracteur-chiropracteur-vaulnaveys-le-haut-38410, chiropracteur-chiropracteur-vizille-38220
 
-286. `https://www.google.com/maps/embed/v1/place?key=AIzaSyBhiWJknGbS7LdN1Khxnh0pVjK9EMhlXQQ&language=fr&q=5+rue+des+Vors%2C+38320+Eybens&zoom=15`
+285. `https://www.google.com/maps/embed/v1/place?key=AIzaSyBhiWJknGbS7LdN1Khxnh0pVjK9EMhlXQQ&language=fr&q=5+rue+des+Vors%2C+38320+Eybens&zoom=15`
    - Context: iframe.data-src
    - Files: claire-malot-viallet, nicolas-viallet-chiropracteur-eybens-38320
 

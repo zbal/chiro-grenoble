@@ -790,17 +790,12 @@
 
 </div>
 </div></div><div class="container-dark" id="subfooter"><div class="sb-row"><div class="sb-col sb-col-sm"><p class="subfooter-credits pull-left">
-  <span class="subfooter-credits-white-space">
-    <span>Création et référencement du site par Simplébo</span>
-      <a class="logo-white-space" target="_blank" rel="noopener" href="https://www.simplebo.fr/creation-site-internet-professionnel?sbmcn=SB_RENVOI_SIP_SITES_CLIENTS_PAGE_SITE_INTERNET&amp;utm_campaign=SB_RENVOI_SIP_SITES_CLIENTS_PAGE_SITE_INTERNET&amp;utm_source=Simplébo&amp;utm_medium=Renvoi+-+Site+internet+public">
-        <img  src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%200%200&#39;%3E%3C/svg%3E" data-src="https://files.sbcdnsb.com/images/brand/1762528045/1/websites_subfooter_logo/logo-simplebo-agence-web.png" alt="Simplébo" height="20" width="88">
-</a>  </span>
-    <span class="subfooter-separator">&nbsp; | &nbsp;</span>
+    <span class="subfooter-credits-white-space">
+    <span>Cabinet Nicolas Viallet &amp; Claire Malot Viallet</span>
+  </span>
+<span class="subfooter-separator">&nbsp; | &nbsp;</span>
     <span class="subfooter-credits-business-provider"> Site partenaire de <a href="https://www.chiropraxie.com/" rel="nofollow">AFC</a></span>
 </p>
-      <p class="subfooter-connexion pull-right">
-        <a target="_blank" href="https://compte.simplebo.net/sites-internet/mes-sites/0KYF3o4J0xed6XiQrAo_BQ/tableau-de-bord?redirected_from=cms">Connexion</a>
-      </p>
 </div></div></div></div></div>
 <button id="backtotop" title="Vers le haut de page">
   <span class="svg-container"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1675 971q0 51-37 90l-75 75q-38 38-91 38-54 0-90-38l-294-293v704q0 52-37.5 84.5t-90.5 32.5h-128q-53 0-90.5-32.5t-37.5-84.5v-704l-294 293q-36 38-90 38t-90-38l-75-75q-38-38-38-90 0-53 38-91l651-651q35-37 90-37 54 0 91 37l651 651q37 39 37 91z" /></svg></span>
@@ -903,7 +898,6 @@
       lazyloadEnabled: true,
       linkOpenConversionsTrackingEnabled: false,
       phoneNumberDisplayConversionsTrackingEnabled: false,
-      toolConnexionBaseUrl: 'https://app.simplebo.net/site/8f65d3rbhmye/authentification/sign_in?page=chiropracteur-chiropracteur-la-tronche-38700',
       analyticsEventsType: ""
     }
   </script>
