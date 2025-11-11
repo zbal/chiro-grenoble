@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /api_website_feature/popups/*
+Disallow: /api-website-feature/popups/*
+Sitemap: https://www.chiro-grenoble.fr/sitemap.xml
+User-agent: Qwantify
+Crawl-delay: 5
