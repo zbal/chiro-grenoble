@@ -4,7 +4,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <base href="//www.chiro-grenoble.fr">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://www.chiro-grenoble.fr/chiropracteur-chiropracteur-fontaine-38600"/>
   <link rel="shortcut icon" type="image/x-icon" href="https://files.sbcdnsb.com/images/brand/1762528045/1/default_favicon/favicon1.png" />
@@ -21,13 +20,13 @@
         
       
 
-  <link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/application-e9a15786.css" media="all" />
-  <link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/app_visitor-35dbe3b8.css" media="all" />
-  <link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/form-7d3b3382.css" media="all" /><link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/map-3da51164.css" media="all" /><link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/review_display-1cf87f0b.css" media="all" /><link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/content_box-5f80c809.css" media="all" />
-  <link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/themes/desktop/2/css/visitor-487ed337.css" media="all" />
-  <link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/themes/mobile/0/css/visitor-7e19ac25.css" media="only screen and (max-width: 992px)" />
-  <link rel="stylesheet" media="all" href="/site/8f65d3rbhmye/styles/1762270868/dynamic-styles.css">
-  <link rel="stylesheet" media="all" href="/styles/pages/182334/1712684021/containers-specific-styles.css">
+  <link rel="stylesheet" href="assets/vendor/css/application-e9a15786.css" media="all" />
+  <link rel="stylesheet" href="assets/vendor/css/app_visitor-35dbe3b8.css" media="all" />
+  <link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/form-7d3b3382.css" media="all" /><link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/map-3da51164.css" media="all" /><link rel="stylesheet" href="https://assets.sbcdnsb.com/assets/tool/visitor/elements/manifests/review_display-1cf87f0b.css" media="all" /><link rel="stylesheet" href="assets/vendor/css/content_box-5f80c809.css" media="all" />
+  <link rel="stylesheet" href="assets/vendor/css/visitor-desktop-487ed337.css" media="all" />
+  <link rel="stylesheet" href="assets/vendor/css/visitor-mobile-7e19ac25.css" media="only screen and (max-width: 992px)" />
+  <link rel="stylesheet" media="all" href="site/8f65d3rbhmye/styles/1762270868/dynamic-styles.css">
+  <link rel="stylesheet" media="all" href="styles/pages/182334/1712684021/containers-specific-styles.css">
   <meta name="csrf-param" content="authenticity_token" />
 <meta name="csrf-token" content="-6ho_xFYHHvEl3T7L6h1BoOKjLAjUGselMi1-9O8ER-gA7TBippnJ15vYTkYIWmNj7ecqWKw16y_lu7DC8NlQg" />
   <script>
